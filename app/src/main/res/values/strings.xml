@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">利息测算器</string>
+    <string name="lilv">利率:</string>
+    <string name="total">总额:</string>
+    <string name="times">统计:</string>
+    <string name="danwei">单位:</string>
+    <string name="mouth">月</string>
+    <string name="day">每天计算结果:</string>
+    <string name="tongji">统计结果:</string>
+    <string name="year">年</string>
+    <string name="yuliu">预留:</string>
+    <string name="fenge">------------------------------------------------------------------------------------</string>
+
+</resources>
